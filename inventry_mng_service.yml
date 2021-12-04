@@ -8,3 +8,5 @@ spring:
     generate-ddl: false
     hibernate:
       ddl-auto: update
+stockInfo:
+   slrNo: 45
