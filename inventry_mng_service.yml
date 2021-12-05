@@ -9,4 +9,4 @@ spring:
     hibernate:
       ddl-auto: update
 stock:
-   slrNo: 58
+   slrNo: 508
